@@ -2,13 +2,11 @@
 @import url(./__link/footer__link.css);
 @import url(./__links/footer__links.css);
 
-
 .footer {
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
 }
-
 
 @media screen and (max-width: 1024px) {
   .footer {
@@ -23,7 +21,6 @@
 }
 
 @media screen and (max-width: 320px) {
-
   .footer {
     flex-direction: column;
     margin: 0 16px;

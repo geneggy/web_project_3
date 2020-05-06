@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .footer__copyright{
+  .footer__copyright {
     padding: 12px 0 0 0;
   }
 }

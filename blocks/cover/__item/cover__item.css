@@ -9,9 +9,8 @@
   z-index: 0;
 }
 
-
 .cover__item::before {
-  content:'';
+  content: "";
   height: 100%;
   width: 100%;
   background-image: url(../../../images/cover-route-66.jpg);
@@ -19,12 +18,11 @@
   background-repeat: no-repeat;
   background-position: center;
   position: absolute;
-  top:0;
-  left:0;
+  top: 0;
+  left: 0;
   z-index: 1;
-  transition-duration: .5s; 
+  transition-duration: 0.5s;
 }
-
 
 .cover__item:hover:before {
   opacity: 0.8;
