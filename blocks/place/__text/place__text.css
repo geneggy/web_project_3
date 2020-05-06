@@ -6,7 +6,6 @@
   margin: 0;
 }
 
-
 .place__text:not(:last-child) {
   padding: 0 0 24px 0;
 }
