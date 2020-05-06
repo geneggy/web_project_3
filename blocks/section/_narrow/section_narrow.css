@@ -2,7 +2,7 @@
   max-width: 984px;
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .section_narrow {
     max-width: 928px;
   }
@@ -12,4 +12,4 @@
   .section_narrow {
     max-width: 100%;
   }
-}
+} */
