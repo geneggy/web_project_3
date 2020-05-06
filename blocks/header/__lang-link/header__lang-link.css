@@ -5,11 +5,11 @@
   text-align: right;
   color: #ffffff;
   text-decoration: none;
-  transition: 0.5s;
+  transition: .5s;
 }
 
 .header__lang-link:hover {
-  opacity: 0.8;
+  opacity: .8;
 }
 
 @media screen and (max-width: 425px) {

@@ -21,11 +21,11 @@
   top: 0;
   left: 0;
   z-index: 1;
-  transition-duration: 0.5s;
+  transition-duration: .5s;
 }
 
 .cover__item:hover:before {
-  opacity: 0.8;
+  opacity: .8;
 }
 
 @media screen and (max-width: 1024px) {
