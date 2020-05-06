@@ -6,6 +6,7 @@
   /* identical to box height, or 122% */
   text-decoration: underline;
   color: #ffffff;
+  transition: .5s;
 }
 
 .place__link:hover {
