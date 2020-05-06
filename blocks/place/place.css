@@ -39,6 +39,9 @@
   .place {
     grid-template-columns: auto;
     gap: 32px;
+  }
+
+  .place:not(:last-child) {
     padding-bottom: 48px;
   }
 }
