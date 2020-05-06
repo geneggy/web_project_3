@@ -9,11 +9,11 @@
   text-align: center;
   color: #ffffff;
   z-index: 2;
-  text-align: center;
 }
 
 @media screen and (max-width: 320px) {
   .cover__text {
+    max-width: 288px;
     font-size: 14px;
     line-height: 16px;
   }

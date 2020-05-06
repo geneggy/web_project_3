@@ -1,5 +1,18 @@
 @media screen and (max-width: 768px) {
   .places {
-    max-width: 720px;
+    padding: 0 24px 72px 24px;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .places {
+    padding: 0 24px 72px 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places {
+    padding: 0;
   }
 }
