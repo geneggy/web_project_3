@@ -10,7 +10,7 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
   .section {
     margin: 0 auto 64px auto;
   }
